@@ -1,24 +1,18 @@
 {
   "name": "frontity-gutenberg-styles",
-  "version": "1.0.0",
-  "description": "Analytics package to use Microsoft Clarity with Frontity",
+  "version": "9.7.0",
+  "description": "Adds Gutenberg Styles to Frontity",
   "homepage": "https://github.com/frontity/frontity",
   "license": "Apache-2.0",
   "keywords": [
     "frontity",
-    "frontity-analytics",
-    "frontity-google-analytics"
+    "gutenberg"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/frontity/frontity.git"
-  },
-  "scripts": {
-    "test:ci": "../../node_modules/.bin/jest --ci --coverage",
-    "test": "../../node_modules/.bin/jest --watch",
-    "test:inspect": "node --inspect ../../node_modules/jest/bin/jest.js --watch --no-cache --runInBand"
+    "url": "https://github.com/Bowriverstudio/frontity-gutenberg-styles.git"
   },
   "bugs": {
-    "url": "https://github.com/frontity/frontity/issues"
+    "url": "https://github.com/Bowriverstudio/frontity-gutenberg-styles/issues"
   }
 }
